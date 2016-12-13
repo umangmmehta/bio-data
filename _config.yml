@@ -13,7 +13,7 @@ baseurl: '/bio-data' #change it according to your repository name
 
 
 #Profile information
-name: Umang Mukesh Mehta
+name: Umang Mehta
 tagline: Software Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
