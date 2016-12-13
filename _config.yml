@@ -18,11 +18,11 @@ tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: 
+email:
 phone: +91 22 28619951
 website:
 linkedin:
-github: umangmmehta
+github:
 twitter: '@oomuung'
 
 #Update all the sections by editing the files inside _includes folder.
